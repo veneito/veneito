@@ -44,6 +44,17 @@ Building native Rust apps, running a two-node Proxmox homelab, and making Roblox
   <a href="https://github.com/veneito/v2-vault"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=veneito&repo=v2-vault&bg_color=000000&title_color=ffffff&text_color=bbbbbb&icon_color=ffffff&hide_border=true" /></a>
 </p>
 
+<p align="center"><b>O N &nbsp; G I T L A B</b></p>
+
+<p align="center">
+  <a href="https://gitlab.com/engage-pc-recomp/engage-pc-recomp">
+    <img src="https://img.shields.io/badge/engage--pc--recomp-000?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <img src="https://img.shields.io/gitlab/stars/engage-pc-recomp%2Fengage-pc-recomp?style=for-the-badge&color=000&labelColor=000&logo=gitlab&logoColor=white" />
+  </a>
+  <br>
+  <sub>Experimental native Windows port of Fire Emblem Engage 2.0.0. Build locally from your own files; no game data included.</sub>
+</p>
+
 <br>
 
 <p align="center"><b>S T A T S</b></p>
