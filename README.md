@@ -10,6 +10,10 @@ Building native Rust apps, running a two-node Proxmox homelab, and making Roblox
 
 [![Website](https://img.shields.io/badge/veneito.dev-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.veneito.dev)
 
+<br><br>
+
+<img src="https://lanyard.cnrad.dev/api/968673369077727262?theme=dark&bg=000000&borderRadius=12px&idleMessage=building%20something" />
+
 </div>
 
 <br>
