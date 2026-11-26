@@ -13,7 +13,7 @@
 ### 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,cs,java,python,ts,react,lua,linux,proxmox,docker,windows,git&perline=12&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,cs,java,python,ts,react,lua,linux,docker,windows,git&perline=11&theme=dark" />
 </p>
 
 ### 📌 Featured
