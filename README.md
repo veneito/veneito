@@ -12,7 +12,7 @@ Building native Rust apps, running a two-node Proxmox homelab, and making Roblox
 
 <br><br>
 
-<img src="https://card.veneito.dev/api/968673369077727262?theme=dark&bg=000000&borderRadius=12px&idleMessage=building%20something" />
+<a href="https://card.veneito.dev"><img src="https://card.veneito.dev/api/968673369077727262?theme=dark&bg=000000&borderRadius=12px&idleMessage=building%20something" /></a>
 
 </div>
 
